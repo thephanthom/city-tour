@@ -12,7 +12,7 @@ function CardBody() {
     </div>
     <div className="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="http://otzyvy-avtovladelcev.ru/img/auto-body-image/4740/78184.jpg" alt="sofa-2" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://s.auto.drom.ru/i24198/c/photos/fullsize/land_rover/range_rover_sport/land_rover_range_rover_sport_552195.jpg" alt="sofa-2" />
         <img class="sm:hidden w-full" src="https://www.mercedes-benz.ru/passengercars/mercedes-benz-cars/models/v-class/v-class-mpv-fl/explore/mb-intelligent-drive/_jcr_content/hotspotimage/hotspots/hotspot/mobileImage.MQ6.6.20190402133234.jpeg" alt="sofa" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
@@ -186,7 +186,7 @@ function CardBody() {
       </div>
 
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="https://www.carpixel.net/w/345fde23485f94075caf3ec78c1106f4/range-rover-autobiography-car-wallpaper-37157.jpg" alt="sofa-7" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://nahybride.ru/wp-content/uploads/2019/12/toyota-1.jpg" alt="sofa-7" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
