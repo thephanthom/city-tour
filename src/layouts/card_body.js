@@ -12,8 +12,8 @@ function CardBody() {
     </div>
     <div className="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="https://s1.cdn.autoevolution.com/images/news/gallery/mercedes-recalls-new-s-className-for-stalling-engine-issue_84.jpg" alt="sofa-2" />
-        <img class="sm:hidden w-full" src="http://otzyvy-avtovladelcev.ru/img/auto-body-image/4740/78184.jpg" alt="sofa" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://www.carpixel.net/w/dc0072aca7bcef41fdcfe94cda87bb21/range-rover-autobiography-car-wallpaper-37160.jpg" alt="sofa-2" />
+        <img class="sm:hidden w-full" src="https://www.carpixel.net/w/dc0072aca7bcef41fdcfe94cda87bb21/range-rover-autobiography-car-wallpaper-37160.jpg" alt="sofa" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -81,7 +81,7 @@ function CardBody() {
       </div>
 
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="" alt="sofa-4" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://avatars.mds.yandex.net/get-autoru-vos/2165132/f34699001ea04eef39c6e987fe6d0c10/456x342" alt="sofa-4" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -115,7 +115,7 @@ function CardBody() {
       </div>
 
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="" alt="sofa-5" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://motor.ru/imgs/2019/10/22/12/3620885/9962ce480df2c6398ad38485358cc1e2d7cdfe7f.jpg" alt="sofa-5" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -152,7 +152,7 @@ function CardBody() {
       </div>
 
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="" alt="sofa-6" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://starcars.ru/upload/iblock/d4e/6hdtegkfg12cirg5jrs49aoo8p2nm0e6/DSC_2194_1.jpg" alt="sofa-6" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -186,7 +186,7 @@ function CardBody() {
       </div>
 
       <div className="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img className="group-hover:opacity-60 transition duration-500" src="" alt="sofa-7" />
+        <img className="group-hover:opacity-60 transition duration-500" src="https://nahybride.ru/wp-content/uploads/2019/12/toyota-1.jpg" alt="sofa-7" />
         <div className="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p className="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
