@@ -1,23 +1,38 @@
+/* eslint-disable jsx-a11y/alt-text */
 const Footer =() =>  {
     return ( <>
-    <div className="w-full min-h-screen flex items-center justify-center bg-gray-700">
-        <div className="md:w-2/3 w-full px-4 text-white flex flex-col">
-            <div className="w-full text-7xl font-bold">
-                <h1 className="w-full md:w-2/3">Best tour in CITY-TOUR</h1>
-            </div>
-            <div className="flex mt-8 flex-col md:flex-row md:justify-between">
-                <p className="w-full md:w-2/3 text-gray-400">To ensure that all Wikipedia content is verifiable, anyone may question an uncited claim. If your work has been tagged</p>
-                <div className="w-44 pt-6 md:pt-0">
-                    <a className="bg-teal-500 justify-center text-center rounded-lg shadow px-10 py-3 flex items-center" href="/">Contact US</a>
+    <div className=" bg-gray-900">
+    <div className="max-w-2xl mx-auto text-white py-10">
+        <div className="text-center">
+            <h3 className="text-3xl mb-3"> Bizning Mobil Ilovalarni </h3>
+            <p> Google Play Store va Apple Storedan yuklashingiz mumkin </p>
+            <div className="flex justify-center my-10">
+                <div className="flex items-center border w-auto rounded-lg px-4 py-2 mx-2">
+                    <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" className="w-7 md:w-8"/>
+                    <div className="text-left ml-3">
+                        <p className='text-xs text-gray-200'>Mobil Ilova </p>
+                        <p className="text-sm md:text-base"> Google Play Store </p>
+                    </div>
+                </div>
+                <div className="flex items-center border w-auto rounded-lg px-4 py-2 mx-2">
+                    <img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" className="w-7 md:w-8"/>
+                    <div className="text-left ml-3">
+                        <p className='text-xs text-gray-200'>Mobil Ilova </p>
+                        <p className="text-sm md:text-base"> Apple Store</p>
+                    </div>
                 </div>
             </div>
-            <div>
-                
-                <hr className="border-gray-600 mt-5"/>
-                <p className="w-full text-center my-12 text-gray-600">© 2018 - 2022 CITY-TOUR</p>
+        </div>
+        <div className="mt-28 flex flex-col md:flex-row md:justify-between items-center text-sm text-gray-400">
+            <p className="order-2 md:order-1 mt-8 md:mt-0"> &copy; CITY-TOUR, 2018-2022. </p>
+            <div className="order-1 md:order-2">
+                <span className="px-2">Biz Haqimizda</span>
+                <span className="px-2 border-l">Aloqa Uchun</span>
+                <span className="px-2 border-l">LogIn</span>
             </div>
         </div>
-    </div></> );
+    </div>
+</div></> );
 }
 
 export default Footer;
