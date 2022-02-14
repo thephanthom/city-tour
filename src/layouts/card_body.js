@@ -1,7 +1,7 @@
 function CardBody() {
     return ( <>
 <div>
-<section className="pt-20 lg:pt-[120px] pb-10 lg:pb-20 bg-[#F3F4F6]">
+<section className="pt-20 p-8 lg:pt-[120px] pb-10 lg:pb-20 bg-[#F3F4F6]">
    <div className="container">
       <div className="flex flex-wrap -mx-4">
          <div className="w-full md:w-1/2 xl:w-1/3 px-4">
@@ -56,7 +56,7 @@ function CardBody() {
          <div className="w-full md:w-1/2 xl:w-1/3 px-4">
             <div className="bg-white rounded-lg overflow-hidden mb-10">
                <img
-                  src="https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2020/01/27/110039-mercedes.jpg?itok=se7sORFx"
+                  src="https://guidetoiceland.imgix.net/322416/x/0/transferring-from-reykjavik-to-keflavik-in-a-brand-new-luxury-van-saves-valuable-travel-time.jpg?w=360&dpr=2&h=210&fit=crop&crop=center&auto=format%2Ccompress&q=35&ixlib=react-8.6.4"
                   alt="img"
                   className="object-cover bottom-5"
                   />
